@@ -1,0 +1,16 @@
+# Ignorar checkpoints do Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Ignorar ambientes virtuais
+venv/
+.venv/
+env/
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
