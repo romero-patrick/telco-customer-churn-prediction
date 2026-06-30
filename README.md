@@ -48,8 +48,8 @@ O projeto está organizado de forma limpa e estritamente profissional:
 │   ├── raw/            # Dataset bruto original (telco.csv)
 │   └── processed/      # Artefatos gerados (DataFrames persistidos e modelos .pkl)
 ├── notebooks/
-│   ├── 01_analise_e_som.ipynb           # EDA, Redes de Kohonen e Raio-X de Hemisférios
-│   ├── 02_laboratorios_avancados.ipynb  # Sub-clustering via DBSCAN, Plus-Minus e Modelos Locais
-│   ├── 03_modelo_final_global.ipynb     # Tuning do Campeão de Produção e Exportação dos Artefatos
+│   ├── 01_analise_exploratoria_e_clusterizacao_espacial.ipynb           # EDA, Redes de Kohonen e Raio-X de Hemisférios
+│   ├── 02_engenharia_de_micro_regioes_e_teste_multiespecialista.ipynb  # Sub-clustering via DBSCAN, Plus-Minus e Modelos Locais
+│   ├── 03_modelo_de_producao.ipynb     # Tuning do Campeão de Produção e Exportação dos Artefatos
 │   └── drafts/                          # Sandbox / Histórico de rascunhos locais de pesquisa
 └── README.md                            # Documentação Principal do Portfólio
